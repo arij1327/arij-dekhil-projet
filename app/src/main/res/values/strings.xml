@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">examen</string>
+    <string-array name="x">
+<item name="iphone" type="string"></item>
+    <item name="samsung" type="string"></item>
+    <item name="iphnoe14" type="string"></item>
+    </string-array>
+</resources>
